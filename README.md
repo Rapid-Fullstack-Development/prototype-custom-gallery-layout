@@ -1,6 +1,6 @@
 # prototype-custom-gallery-layout
 
-A prototype to learn how to create a basic photo gallery layout algorithm. As soon as I learned what I need to learn I stopped working on this prototype. I learned what I wanted to learn and then threw away this code - only taking my knowledge with me on to the real production version of Photosphere.
+A prototype to learn how to create a basic photo gallery layout algorithm. As soon as I learned what I needed to learn I stopped working on this prototype. I learned what I wanted to learn and then threw away this code (well I put it on GitHub so that you could take a look at it). The only thing I'm taking forward from this small project is the knowledge, which I'll put to use developing the real production frontend for Photosphere.
 
 This code was created during a [live stream](https://youtu.be/v0JHiIRm3mY) to support the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
 
