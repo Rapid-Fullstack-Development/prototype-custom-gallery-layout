@@ -1,5 +1,5 @@
 {
-  "name": "react-parcel-template",
+  "name": "prototype-custom-gallery-layout",
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "parcel": "^2.7.0",
     "process": "^0.11.10"
